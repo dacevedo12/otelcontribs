@@ -1,0 +1,24 @@
+concurrency:
+  cancel-in-progress: true
+  group: ${{ github.actor }}
+jobs:
+  formatNix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker://ghcr.io/fluidattacks/makes/amd64:latest
+        with:
+          set-safe-directory: /github/workspace
+          args: sh -c "chown -R root:root /github/workspace && m . /formatNix"
+  formatPython:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker://ghcr.io/fluidattacks/makes/amd64:latest
+        with:
+          set-safe-directory: /github/workspace
+          args: sh -c "chown -R root:root /github/workspace && m . /formatPython/default"
+name: dev
+on:
+  push:
+    branches: [main]
