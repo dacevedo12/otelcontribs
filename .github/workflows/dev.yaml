@@ -18,6 +18,14 @@ jobs:
         with:
           set-safe-directory: /github/workspace
           args: sh -c "chown -R root:root /github/workspace && m . /formatPython/default"
+  lintPython_module_aiobotocore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker://ghcr.io/fluidattacks/makes/amd64:latest
+        with:
+          set-safe-directory: /github/workspace
+          args: sh -c "chown -R root:root /github/workspace && m . /lintPython/module/aiobotocore"
 name: dev
 on:
   push:
