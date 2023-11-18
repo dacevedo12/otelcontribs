@@ -26,6 +26,14 @@ jobs:
         with:
           set-safe-directory: /github/workspace
           args: sh -c "chown -R root:root /github/workspace && m . /lintPython/module/aiobotocore"
+  lintPython_module_graphql_core:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker://ghcr.io/fluidattacks/makes/amd64:latest
+        with:
+          set-safe-directory: /github/workspace
+          args: sh -c "chown -R root:root /github/workspace && m . /lintPython/module/graphql_core"
 name: dev
 on:
   push:

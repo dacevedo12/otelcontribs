@@ -1,0 +1,153 @@
+closure:
+  asgiref: 3.7.2
+  colorama: 0.4.6
+  deprecated: 1.2.14
+  graphql-core: 3.2.3
+  importlib-metadata: 6.8.0
+  iniconfig: 2.0.0
+  opentelemetry-api: 1.21.0
+  opentelemetry-instrumentation: 0.42b0
+  opentelemetry-sdk: 1.21.0
+  opentelemetry-semantic-conventions: 0.42b0
+  opentelemetry-test-utils: 0.42b0
+  packaging: "23.2"
+  pluggy: 1.3.0
+  pytest: 7.4.3
+  setuptools: 68.2.2
+  typing-extensions: 4.8.0
+  wrapt: 1.16.0
+  zipp: 3.17.0
+links:
+  - name: asgiref-3.7.2-py3-none-any.whl
+    sha256: 0vjgdmw4km0wsrf8myp2d1jfq0z7wb03nrpgdshn5dg38wifzcl9
+    url: https://files.pythonhosted.org/packages/9b/80/b9051a4a07ad231558fcd8ffc89232711b4e618c15cb7a392a17384bbeef/asgiref-3.7.2-py3-none-any.whl
+  - name: asgiref-3.7.2.tar.gz
+    sha256: 1vdgj8mikd2j6ijlhf7b4n2nxkvq72r1c0hj8mdvl6d8jfmf634y
+    url: https://files.pythonhosted.org/packages/12/19/64e38c1c2cbf0da9635b7082bbdf0e89052e93329279f59759c24a10cc96/asgiref-3.7.2.tar.gz
+  - name: colorama-0.4.6-py2.py3-none-any.whl
+    sha256: 1ijz53xpmxds2qf02l9yf0rnp7bznwh3ci4xkw8wmh5cyn8rj7ag
+    url: https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl
+  - name: colorama-0.4.6.tar.gz
+    sha256: 0i3fpq0w5mbfdpy3z9p5raw4fg17jxr6jwh5l8qhavpdnxf5ys88
+    url: https://files.pythonhosted.org/packages/d8/53/6f443c9a4a8358a93a6792e2acffb9d9d5cb0a5cfd8802644b7b1c9a02e4/colorama-0.4.6.tar.gz
+  - name: Deprecated-1.2.14-py2.py3-none-any.whl
+    sha256: 0v26f22dg6c434dzz0q5fb2d6cp72nwbj5xvpl107aclfw4qpb3g
+    url: https://files.pythonhosted.org/packages/20/8d/778b7d51b981a96554f29136cd59ca7880bf58094338085bcf2a979a0e6a/Deprecated-1.2.14-py2.py3-none-any.whl
+  - name: Deprecated-1.2.14.tar.gz
+    sha256: 1cq17pavjw291hmzyrbhl9ssfln84b1zkiidb31cr3a56swkwcp5
+    url: https://files.pythonhosted.org/packages/92/14/1e41f504a246fc224d2ac264c227975427a85caf37c3979979edb9b1b232/Deprecated-1.2.14.tar.gz
+  - name: graphql_core-3.2.3-py3-none-any.whl
+    sha256: 1hrx60zgrfda9zp3mn6xd0w3wwcjvj3z52rz2fxchpmxa827hrjp
+    url: https://files.pythonhosted.org/packages/f8/39/e5143e7ec70939d2076c1165ae9d4a3815597019c4d797b7f959cf778600/graphql_core-3.2.3-py3-none-any.whl
+  - name: graphql-core-3.2.3.tar.gz
+    sha256: 0xk6wizh0sakzjlhkcn17fjmdsa5bhz5v227rfqkagkjmk8amlh6
+    url: https://files.pythonhosted.org/packages/ee/a6/94df9045ca1bac404c7b394094cd06713f63f49c7a4d54d99b773ae81737/graphql-core-3.2.3.tar.gz
+  - name: importlib_metadata-6.8.0-py3-none-any.whl
+    sha256: 1fv8pr56ksxklidj8yacv4y0arwxbnbmn0j5h9lxf1d8hkgpifry
+    url: https://files.pythonhosted.org/packages/cc/37/db7ba97e676af155f5fcb1a35466f446eadc9104e25b83366e8088c9c926/importlib_metadata-6.8.0-py3-none-any.whl
+  - name: importlib_metadata-6.8.0.tar.gz
+    sha256: 0hs7cpafk8qn63amnm64yij4w7c35win4rh9mp0ll34c5n4ygb6v
+    url: https://files.pythonhosted.org/packages/33/44/ae06b446b8d8263d712a211e959212083a5eda2bf36d57ca7415e03f6f36/importlib_metadata-6.8.0.tar.gz
+  - name: iniconfig-2.0.0-py3-none-any.whl
+    sha256: 0x43fyv1hpwpmvvqh73ldcyac9j2hb14mffis8i3nblxlxqmia5n
+    url: https://files.pythonhosted.org/packages/ef/a6/62565a6e1cf69e10f5727360368e451d4b7f58beeac6173dc9db836a5b46/iniconfig-2.0.0-py3-none-any.whl
+  - name: iniconfig-2.0.0.tar.gz
+    sha256: 1cxqanj28jqk0alx2xq4ddgvab5822k6vh8p1d0imlvjpwsy349d
+    url: https://files.pythonhosted.org/packages/d7/4b/cbd8e699e64a6f16ca3a8220661b5f83792b3017d0f79807cb8708d33913/iniconfig-2.0.0.tar.gz
+  - name: opentelemetry_api-1.21.0-py3-none-any.whl
+    sha256: 1yyz2ydz6a7rqsp1k6mps6z1lal9wh7ji4qfiw4l2zkvc8l6pf2b
+    url: https://files.pythonhosted.org/packages/51/3a/945e6c21f405ac4ea526f91ee09cc1568c04e0c95d3392903e6984c8f0e0/opentelemetry_api-1.21.0-py3-none-any.whl
+  - name: opentelemetry_api-1.21.0.tar.gz
+    sha256: 05k3d2kldpb0lcpiw6x2ijx3x5bbsb92z0i1v5sh001y0kamy66n
+    url: https://files.pythonhosted.org/packages/4d/aa/1a10f310275fdd05a1062d4a8a641a5f041db2377956a80ff3c4dc325a6c/opentelemetry_api-1.21.0.tar.gz
+  - name: opentelemetry_instrumentation-0.42b0-py3-none-any.whl
+    sha256: 0sg3vdm480mvkgy43gxvl7ml2w9y2xinigqn5mfx18hcp7fm9bk5
+    url: https://files.pythonhosted.org/packages/84/33/8e6b97dcb807c1ba5fd84910c091ae4b1b52d74ea24b0574e19f58cce99c/opentelemetry_instrumentation-0.42b0-py3-none-any.whl
+  - name: opentelemetry_instrumentation-0.42b0.tar.gz
+    sha256: 161iaickbj4z46zlrypfgsc3wj2hqxviscl552iywxhgxlgklrba
+    url: https://files.pythonhosted.org/packages/9b/84/35da14ed36660c21f0ec8979e992d1fa8e025189a92ba4b68ce22bea6118/opentelemetry_instrumentation-0.42b0.tar.gz
+  - name: opentelemetry_sdk-1.21.0-py3-none-any.whl
+    sha256: 0wvg30qk3nymkf1qwbgaj014qrgwrnfbi873mknmyrcc78j37rlz
+    url: https://files.pythonhosted.org/packages/c3/08/ca8b1ef7a2fa3f1ea2f12770eca8976098066adb442b1da81fea3b370123/opentelemetry_sdk-1.21.0-py3-none-any.whl
+  - name: opentelemetry_sdk-1.21.0.tar.gz
+    sha256: 0yc8bckqiv6kjnd8sr55jmiwn342mvwwl74rr72np39j40qcvj1y
+    url: https://files.pythonhosted.org/packages/52/38/8edd2d4113705ae7cd877f2c52a98a5b1f385b4f187ba2e48cf2cb4624a7/opentelemetry_sdk-1.21.0.tar.gz
+  - name: opentelemetry_semantic_conventions-0.42b0-py3-none-any.whl
+    sha256: 09pm77pb2b7lcciysassjkqgv8nf1xfnqyb0i1jsyj64zv5ikmsw
+    url: https://files.pythonhosted.org/packages/c3/0c/4c99cbe85b65fbba5a638cb7d913cb3acead3d83b4c47763be28d418bb95/opentelemetry_semantic_conventions-0.42b0-py3-none-any.whl
+  - name: opentelemetry_semantic_conventions-0.42b0.tar.gz
+    sha256: 1v1q1n0fqjx9y5ch31qjrza9hb14q5f7x1bp503haai5lfh6gbj4
+    url: https://files.pythonhosted.org/packages/a1/83/5b5bfd2d41227274f22f4552832e56af02171423f597a0358d2174736492/opentelemetry_semantic_conventions-0.42b0.tar.gz
+  - name: opentelemetry_test_utils-0.42b0-py3-none-any.whl
+    sha256: 1ggg2xjrfab3kwbbk2qcqy6y71z89003d3dj95wx8ig8gxal3z5v
+    url: https://files.pythonhosted.org/packages/50/76/d36ae10551e60253336cc12c98a9b31a5f6043569e4c9e14b04e83b13c26/opentelemetry_test_utils-0.42b0-py3-none-any.whl
+  - name: opentelemetry_test_utils-0.42b0.tar.gz
+    sha256: 0qajzxl4nm5xi6wigkph3s8ws363srna9n71gkdyz1zqrjk4wvnw
+    url: https://files.pythonhosted.org/packages/ae/66/d4999012e1978ba56204394be8f0fe8e5e688a7bc8d3ca91f51fb0fb5b39/opentelemetry_test_utils-0.42b0.tar.gz
+  - name: packaging-23.2-py3-none-any.whl
+    sha256: 1iw8zh1m56r0xmkxxl2dnc4pbx1frkdbbl1iv7hzg6is0f812jcc
+    url: https://files.pythonhosted.org/packages/ec/1a/610693ac4ee14fcdf2d9bf3c493370e4f2ef7ae2e19217d7a237ff42367d/packaging-23.2-py3-none-any.whl
+  - name: packaging-23.2.tar.gz
+    sha256: 1ifgjb0d0bnnm78hv3mnl7hi233m7jamb2plma752djh83lv13q4
+    url: https://files.pythonhosted.org/packages/fb/2b/9b9c33ffed44ee921d0967086d653047286054117d584f1b1a7c22ceaf7b/packaging-23.2.tar.gz
+  - name: pluggy-1.3.0-py3-none-any.whl
+    sha256: 1xv121p7p35mdw50d1vcwv5r6dvs5flwsplfs5vx72rzfxm6k76q
+    url: https://files.pythonhosted.org/packages/05/b8/42ed91898d4784546c5f06c60506400548db3f7a4b3fb441cba4e5c17952/pluggy-1.3.0-py3-none-any.whl
+  - name: pluggy-1.3.0.tar.gz
+    sha256: 04hyclq0fjlq78dpf2amc5vwmls37q7g6b0pa72ggika2a7swqfg
+    url: https://files.pythonhosted.org/packages/36/51/04defc761583568cae5fd533abda3d40164cbdcf22dee5b7126ffef68a40/pluggy-1.3.0.tar.gz
+  - name: pytest-7.4.3-py3-none-any.whl
+    sha256: 1b0zb6wjfrc0llnh1vx8h05igg740baw3xxdfqdsfnd87q49q00d
+    url: https://files.pythonhosted.org/packages/f3/8c/f16efd81ca8e293b2cc78f111190a79ee539d0d5d36ccd49975cb3beac60/pytest-7.4.3-py3-none-any.whl
+  - name: pytest-7.4.3.tar.gz
+    sha256: 1mcch6h9vgfydplgn49csn74xil1sn587k5bknrf7r1dk0vd32fr
+    url: https://files.pythonhosted.org/packages/38/d4/174f020da50c5afe9f5963ad0fc5b56a4287e3586e3de5b3c8bce9c547b4/pytest-7.4.3.tar.gz
+  - name: setuptools-68.2.2-py3-none-any.whl
+    sha256: 0apxfkg49dpi3qzrzg3vqhybfkjj6vvn06nz683acvc70mba6m5l
+    url: https://files.pythonhosted.org/packages/bb/26/7945080113158354380a12ce26873dd6c1ebd88d47f5bc24e2c5bb38c16a/setuptools-68.2.2-py3-none-any.whl
+  - name: setuptools-68.2.2.tar.gz
+    sha256: 11ra53ds0sw6mhgvibys5lbdffyqzkz8jh47hj3c9wfjfr94ghaa
+    url: https://files.pythonhosted.org/packages/ef/cc/93f7213b2ab5ed383f98ce8020e632ef256b406b8569606c3f160ed8e1c9/setuptools-68.2.2.tar.gz
+  - name: typing_extensions-4.8.0-py3-none-any.whl
+    sha256: 187s0lvblj64kf66gxn0mbph3m245fiqscd5x90vd9pr0s4gr4lg
+    url: https://files.pythonhosted.org/packages/24/21/7d397a4b7934ff4028987914ac1044d3b7d52712f30e2ac7a2ae5bc86dd0/typing_extensions-4.8.0-py3-none-any.whl
+  - name: typing_extensions-4.8.0.tar.gz
+    sha256: 1vxpx1d0aw0hbvqyxlb1z16720y36g5cxnybb1skaxybx4wl73nz
+    url: https://files.pythonhosted.org/packages/1f/7a/8b94bb016069caa12fc9f587b28080ac33b4fbb8ca369b98bc0a4828543e/typing_extensions-4.8.0.tar.gz
+  - name: wrapt-1.16.0-cp311-cp311-macosx_10_9_x86_64.whl
+    sha256: 02av6wkma0krzhp2s8sr8g55xbnvn0qw5zgs2czl1r1dzs2v8p8s
+    url: https://files.pythonhosted.org/packages/fd/03/c188ac517f402775b90d6f312955a5e53b866c964b32119f2ed76315697e/wrapt-1.16.0-cp311-cp311-macosx_10_9_x86_64.whl
+  - name: wrapt-1.16.0-cp311-cp311-macosx_11_0_arm64.whl
+    sha256: 0zb85r4g08h94q1rjpmaanffv528g7k6vcdd9dl36mx1w877vskm
+    url: https://files.pythonhosted.org/packages/0f/16/ea627d7817394db04518f62934a5de59874b587b792300991b3c347ff5e0/wrapt-1.16.0-cp311-cp311-macosx_11_0_arm64.whl
+  - name: wrapt-1.16.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
+    sha256: 12b31ifbkmhsr5xfbq6p5fn386av0c6xsbng1x6wsrrj7v5gjlm4
+    url: https://files.pythonhosted.org/packages/7f/a7/f1212ba098f3de0fd244e2de0f8791ad2539c03bef6c05a9fcb03e45b089/wrapt-1.16.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
+  - name: wrapt-1.16.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl
+    sha256: 0q40xl1msb8prildr9hva9l077r6vwlvi3blb2chv2f7vvm5kaj3
+    url: https://files.pythonhosted.org/packages/b7/96/bb5e08b3d6db003c9ab219c487714c13a237ee7dcc572a555eaf1ce7dc82/wrapt-1.16.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl
+  - name: wrapt-1.16.0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+    sha256: 18fwvp7jkz4ds046xi93g8a8pbgf578rkmmv5ah7m3laqwillmbj
+    url: https://files.pythonhosted.org/packages/6e/52/2da48b35193e39ac53cfb141467d9f259851522d0e8c87153f0ba4205fb1/wrapt-1.16.0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+  - name: wrapt-1.16.0-cp311-cp311-musllinux_1_1_aarch64.whl
+    sha256: 1wrcnz7g69pfvvmxgz325n2rf9yqvy2fha4xv7h4g8xhnhsyxvyj
+    url: https://files.pythonhosted.org/packages/11/fb/18ec40265ab81c0e82a934de04596b6ce972c27ba2592c8b53d5585e6bcd/wrapt-1.16.0-cp311-cp311-musllinux_1_1_aarch64.whl
+  - name: wrapt-1.16.0-cp311-cp311-musllinux_1_1_i686.whl
+    sha256: 0mirxwv5s4xfd4wzi7mk6wnr744dahz8rq6aj0fy02vifgzczkvd
+    url: https://files.pythonhosted.org/packages/0f/ef/0ecb1fa23145560431b970418dce575cfaec555ab08617d82eb92afc7ccf/wrapt-1.16.0-cp311-cp311-musllinux_1_1_i686.whl
+  - name: wrapt-1.16.0-cp311-cp311-musllinux_1_1_x86_64.whl
+    sha256: 0z9k73zjzpw1dqnh4lb9hd6jds953n0k4lf8abs9d7510086avpb
+    url: https://files.pythonhosted.org/packages/25/62/cd284b2b747f175b5a96cbd8092b32e7369edab0644c45784871528eb852/wrapt-1.16.0-cp311-cp311-musllinux_1_1_x86_64.whl
+  - name: wrapt-1.16.0-py3-none-any.whl
+    sha256: 1w9fy4g14ck4rxzpfq8sbgvrffxi9chmjq2zfgxg5jwg188c81k9
+    url: https://files.pythonhosted.org/packages/ff/21/abdedb4cdf6ff41ebf01a74087740a709e2edb146490e4d9beea054b0b7a/wrapt-1.16.0-py3-none-any.whl
+  - name: wrapt-1.16.0.tar.gz
+    sha256: 17c9n430v02dyhg5fwskg9zmld1jkzj41b8ygmyd3rvi56ahydsz
+    url: https://files.pythonhosted.org/packages/95/4c/063a912e20bcef7124e0df97282a8af3ff3e4b603ce84c481d6d7346be0a/wrapt-1.16.0.tar.gz
+  - name: zipp-3.17.0-py3-none-any.whl
+    sha256: 0ccz81b8bf26gizhrq3jwnwbpxrz92nmjg651772v4klc5r3x4hf
+    url: https://files.pythonhosted.org/packages/d9/66/48866fc6b158c81cc2bfecc04c480f105c6040e8b077bc54c634b4a67926/zipp-3.17.0-py3-none-any.whl
+  - name: zipp-3.17.0.tar.gz
+    sha256: 1w5sra87d544gf6nq2a2d6vikjsrqb48rfvq43nr2zng50f4mrl4
+    url: https://files.pythonhosted.org/packages/58/03/dd5ccf4e06dec9537ecba8fcc67bbd4ea48a2791773e469e73f94c3ba9a6/zipp-3.17.0.tar.gz
+python: "3.11"
